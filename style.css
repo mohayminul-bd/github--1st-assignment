@@ -1,0 +1,58 @@
+body{
+    font-size: 20px;
+    font-weight: 400px;
+    margin: 0;
+}
+.top-section {
+    display: flex;
+    text-decoration: column;
+    text-align: center;
+    background-image: linear-gradient(to top, rgba(219, 207, 207, 0.233), rgba(15, 5, 5, 0.911)), url("img/top baner.jpg");
+    padding: 120px 20%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #f5fafa;
+}
+.contac{
+    background-image: linear-gradient(to battom,#d38c08, #a82a20);
+    text-align: center;
+}
+
+.under-section-item-01{
+    text-align: center;
+
+}
+.under-section-item-02{
+    display: flex;
+}
+.under-item-01{
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    margin: 30px;
+    background-color: #9dc1cfdc;
+}
+.under-item-02{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    margin: 30px;
+    background-color: #FFEEF4;
+}
+.under-item-03{
+    box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    margin: 30px;
+    background-color: #eaebafd8;
+}
+.under-section-item-03{
+    display: flex;
+    text-align: center;
+    padding: 10px 0% ;
+}
+.under-secton-item-04{
+    display: flex;
+    text-align: center;
+}    
+.item-4{
+    text-align: center;
+}
